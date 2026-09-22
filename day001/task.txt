@@ -1,0 +1,58 @@
+1. What is DSA?
+
+DSA = Data Structures + Algorithms
+
+. Data Structure: A way to store and organize data.
+. Algorithm: A step-by-step procedure to solve a problem.
+
+
+
+2. Time Complexity
+
+Instead of measuring time in seconds, we measure how the running time grows as input size increases.
+
+Complexity	Name	            Example
+O(1)	    Constant	        Access array element
+O(log n)	Logarithmic	        Binary Search
+O(n)	    Linear	            Traversing an array
+O(n log n)	Efficient Sorting	Merge Sort
+O(n²)	    Quadratic	        Nested loops
+
+
+3. Space Complexity
+
+Extra memory used by the algorithm.
+
+Example:
+
+    int[] arr = new int[n];
+
+    Uses O(n) space.
+
+
+4. Arrays in Java
+
+    Declaration
+
+        int[] arr;
+
+    Initialization
+
+        arr = new int[5];
+
+    Or both together
+
+        int[] arr = new int[5];
+
+
+
+
+Day 1 Challenge
+
+Given an array of N integers, print:
+
+Largest element
+Smallest element
+Sum of elements
+Number of even elements
+Number of odd elements
