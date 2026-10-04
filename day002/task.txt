@@ -1,0 +1,69 @@
+Goal
+
+    Master:
+
+    Time & Space Complexity
+    Arrays (Basics + Operations)
+    Linear Search
+    Largest & Smallest Element
+    Practice Questions
+
+
+
+    Time Complexity
+
+        Time complexity tells us how the running time grows as input size increases.
+
+        O(1) – Constant Time
+        int a = arr[0];
+
+No matter how big the array is, it takes the same time.
+
+        O(n) – Linear Time
+        for(int i=0;i<n;i++){
+            System.out.println(arr[i]);
+        }
+
+If the array doubles in size, the work doubles.
+
+        O(n²)
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                System.out.println(i+" "+j);
+            }
+        }
+
+Nested loops.
+
+Complexity Order
+
+    O(1) -> O(log n) -> (n) -> O(n log n) -> O(n²) -> O(n³) -> O(2^n) -> O(n!)
+
+
+## Practice Questions
+
+Solve these on your own:
+
+Easy
+Find the maximum element.
+Find the minimum element.
+Find the sum of an array.
+Count even and odd numbers.
+Search for a given element.
+Medium
+Reverse an array (without using another array).
+Find the second largest element.
+Check if an array is sorted.
+Count occurrences of a number.
+Find the average of all elements.
+
+
+## Homework
+
+Complete these problems:
+
+Reverse an array in-place.
+Find the second largest element.
+Check if an array is sorted in ascending order.
+Move all zeros to the end while maintaining the order of non-zero elements.
+Solve 10 Easy Array problems on LeetCode or GeeksforGeeks.

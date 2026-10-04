@@ -6,7 +6,7 @@ public class linearSearch {
 
         int target = 8;
 
-        int index;
+        int index =0 ;
 
         boolean found = false;
 
