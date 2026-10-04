@@ -1,8 +1,7 @@
-import java.util.*;
 
 public class linearSearch{
 
-    public static int linearSearch(int[] arr,int key){
+    public static int Search(int[] arr,int key){
 
         for(int i=0;i<arr.length;i++){
 
@@ -21,7 +20,7 @@ public class linearSearch{
 
         int key=40;
 
-        int ans=linearSearch(arr,key);
+        int ans=Search(arr,key);
 
         System.out.println(ans);
 

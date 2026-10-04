@@ -15,6 +15,8 @@ public class inputArray{
             arr[i]=sc.nextInt();
         }
 
+        sc.close();
+
         // O[n]
         for(int i=0;i<n;i++){
             System.out.print(arr[i]+" ");

@@ -1,0 +1,18 @@
+create a leetCode account 
+
+
+leetCode problem to solve
+
+https://leetcode.com/problems/search-insert-position/
+
+Practice Problems
+Easy
+1. LeetCode 704 – Binary Search
+2. LeetCode 35 – Search Insert Position
+3. LeetCode 278 – First Bad Version (concept)
+Medium
+4. LeetCode 34 – Find First and Last Position of Element in Sorted Array
+5. Find Floor and Ceil in a Sorted Array (GeeksforGeeks)
+For Binary Search on Answers
+6. LeetCode 875 – Koko Eating Bananas
+7. LeetCode 1011 – Capacity To Ship Packages Within D Days
