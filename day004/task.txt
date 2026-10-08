@@ -1,0 +1,12 @@
+day004 : revision of day 3 
+
+binary search to advance 
+
+1. Binary Search on Answers — Concept
+2. Koko Eating Bananas
+3. Minimum Days to Make M Bouquets
+4. Capacity to Ship Packages Within D Days
+5. Allocate Minimum Pages
+6. Aggressive Cows
+7. Pattern Recognition
+8. Practice Problems
