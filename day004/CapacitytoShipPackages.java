@@ -53,9 +53,9 @@ public class CapacitytoShipPackages {
 
                 int[] arr = {1,2,3,4,5,6,7,8,9,10};
 
-                        System.out.println(shipWithinDays(arr,10));
+                        System.out.println(shipWithinDays(arr,5));
 
                                 // System.out.println(search(arr,10));
                                     }
     }
-}
+

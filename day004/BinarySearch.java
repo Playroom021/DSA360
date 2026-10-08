@@ -1,4 +1,4 @@
-package day003;
+package day004;
 
 // What is Binary Search?
 
