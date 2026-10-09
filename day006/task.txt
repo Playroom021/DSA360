@@ -1,0 +1,23 @@
+DSA Day 6 — Sliding Window in Java
+
+
+1. Variable-Size Sliding Window
+Expand and shrink a window based on conditions.
+
+
+
+
+2. Longest Subarray with Sum K
+Learn the window approach and its limitations.
+
+
+
+
+3. Longest Substring Without Repeating Characters
+Track characters while maintaining a valid window.
+
+
+
+
+4. Practice problems
+Solve interview-style questions independently.
