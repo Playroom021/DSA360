@@ -1,4 +1,4 @@
-public class linearSearch {
+public class linear_Search {
 
     public static void main(String[] args) {
 
