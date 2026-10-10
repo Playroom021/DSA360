@@ -1,0 +1,23 @@
+todays task 
+
+
+Topic 1: Hashing fundamentals
+Understand how hashing makes searching and counting faster.
+
+
+
+Topic 2: HashMap in Java
+Store key-value pairs, count frequencies, and find complements.
+
+
+
+Topic 3: HashSet in Java
+Detect duplicates and check whether an element exists.
+
+
+
+LeetCode 217 · Easy  Contains Duplicate
+
+LeetCode 1 · Easy    Two Sum using HashMap
+
+LeetCode 242 · Easy  Valid Anagram
