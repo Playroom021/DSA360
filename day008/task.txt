@@ -1,0 +1,15 @@
+DSA Day 8 — Hashing (Part 2) in Java
+
+
+No.	Topic	                            Difficulty
+1	Frequency Counting using HashMap	Easy
+2	First Non-Repeating Character	    Easy
+3	Majority Element	                Easy–Medium
+4	Group Anagrams	                    Medium
+5	Longest Consecutive Sequence	    Medium
+6	Daily Challenge	                    Medium
+
+
+HashMap<Integer, Integer> map = new HashMap<>();
+
+map.put(num, map.getOrDefault(num, 0) + 1);
