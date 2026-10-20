@@ -1,0 +1,18 @@
+Hashing Part 3 (Java)
+
+Use HashMap when you need to associate keys with values or count frequencies.
+Use HashSet when you need to track unique elements or check whether something exists
+
+Step	Topic	Difficulty
+
+
+1	Quick revision of hashing	    Easy
+2	Two Sum	                      Easy
+3	Count Subarrays with Sum K	  Medium
+4	Longest Subarray with Sum K	  Medium
+5	Longest Consecutive Sequence	Medium
+6	Practice problems	            Easy–Medium
+
+next commit 
+
+
