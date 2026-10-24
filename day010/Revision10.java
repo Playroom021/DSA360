@@ -10,7 +10,7 @@ public class Revision10 {
 
       if(map.containsKey(complement)){
         return new int []{map.get(complement),i};
-  
+    
       }
       map.put(nums[i],i);
     }
@@ -29,6 +29,19 @@ public class Revision10 {
       maxSum=Math.max(maxSum,windowSum);
     }
     return maxSum;
+  }
+
+
+  public static boolean DuplicateSearch(int [] nums){
+    HashSet<Integer> set =new HashSet<>();
+    for(int num:nums){
+      if(set.contains(num)){
+        return true;
+      }
+      set.add(num);
+    }
+    return false;
+    
   }
 
   
