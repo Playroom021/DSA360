@@ -1,0 +1,18 @@
+DSA Day 14 — Linked List in Java
+
+What is Linked list ?
+
+a Linked List is a linear data structure made up of nodes,each node stores;
+ * Data : the value stored in that node .
+ * Next : a refrence to the next node (neighboring node)
+
+ head
+ |
+ v
+[10 | next] → [20 | next] → [30 | null]
+
+here ;
+head points to the first node .
+the first node points to the second node .
+the second node points the third node .
+null means there is no next node .
