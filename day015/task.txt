@@ -1,0 +1,16 @@
+DSA Day 15 — Linked List: Reversal & Fast/Slow Pointers
+
+Today's learning plan
+
+1. Linked List revision
+Nodes, head, next pointers, and traversal.
+
+2. Reverse a Linked List
+Understand the three-pointer technique and implement it in Java.
+
+3. Fast and Slow Pointers
+Find the middle node and understand why two pointers move at different speeds.
+
+4. Practice
+Solve problems independently, with hints when you get stuck.
+
