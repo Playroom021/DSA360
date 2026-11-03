@@ -14,3 +14,11 @@ Find the middle node and understand why two pointers move at different speeds.
 4. Practice
 Solve problems independently, with hints when you get stuck.
 
+
+1. What are fast and slow pointers?
+Instead of traversing a linked list with one pointer, we use two pointers:
+- Slow pointer: moves one node at a time.
+- Fast pointer: moves two nodes at a time.
+
+
+Lesson 4: Detect a Cycle in a Linked List
