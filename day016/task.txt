@@ -1,0 +1,22 @@
+DSA Day 16 — Stack (Basics + Monotonic Stack)
+
+
+what is stack ?
+
+A stack is a linear data structure that follows : LIFO (last in ,first out)The last element inserted is the first element removed.
+Example a stack of plates;
+
+operations in Stack 
+1. Push     insert an element;
+2. pop      Remove the top element
+3. peek     view the top element without removing it 
+
+2. Important Stack methods
+
+Method	    Purpose
+push(x)	    Insert element
+pop()	    Remove top element
+peek()	    Return top element
+isEmpty()	Check whether empty
+size()	    Return number of elements
+search(x)	Find element's position from top
