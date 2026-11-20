@@ -23,7 +23,7 @@ class StockSpanProblem {
         for (int i = 0; i < n; i++) {
 
             while (!stack.isEmpty() &&
-                   span[i]>stack.peek()) {
+                   prices[i] > prices[stack.peek()]) {
 
                 stack.pop();
             }
@@ -41,5 +41,13 @@ class StockSpanProblem {
         }
 
         return span;
+    }
+    public static void main(String[] args) {
+
+        int[] prices = {100, 80, 60, 70, 60, 75, 85};
+
+        System.out.println(
+            Arrays.toString(calculateSpan(prices))
+        );
     }
 }
